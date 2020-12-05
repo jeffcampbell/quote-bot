@@ -1,6 +1,10 @@
 # Quote Bot
 ## A Fun Way To Remember What's Being Said on Discord
 
+![alt text](https://github.com/jeffcampbell/quote-bot/blob/main/docs/example-quote.png "Example Quote")
+
+![alt text](https://github.com/jeffcampbell/quote-bot/blob/main/docs/example-meme.png "Example Meme")
+
 How often do you see a joke, quip, or ridiculous statement on Discord that you'd like to keep for posterity? This simple bot uses an emoji reaction to save messages, and a command to re-surface those messages in the future. If you like memes, you can also automatically generate a random meme with the quote.
 
 ### What you will need
